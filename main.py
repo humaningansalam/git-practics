@@ -4,12 +4,14 @@ def print_hello():
     animals = ['dogs', 'cat', 'hamster']
     foods = [
             'Spagetti',
-            'Pizza'
+            'Pizza',
+            'bibimbob'
             ] # w/p trailing comma
     names = [
             'John',
             'Jane',
             'Gil-dong',
+            'Dong',
             ] # w/ trailing comma
     for f_name in names:
         print(f'hello, {f_name}')
